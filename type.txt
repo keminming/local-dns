@@ -1,0 +1,29 @@
+Answer(s) :
+news.google.com is alised to news.l.google.com
+news.l.google.com is 74.125.227.110
+news.l.google.com is 74.125.227.96
+news.l.google.com is 74.125.227.97
+news.l.google.com is 74.125.227.98
+news.l.google.com is 74.125.227.99
+news.l.google.com is 74.125.227.100
+news.l.google.com is 74.125.227.101
+news.l.google.com is 74.125.227.102
+news.l.google.com is 74.125.227.103
+news.l.google.com is 74.125.227.104
+news.l.google.com is 74.125.227.105
+Additional Answer(s) :
+news.google.com is alised to news.l.google.com
+news.l.google.com is 74.125.227.110
+news.l.google.com is 74.125.227.96
+news.l.google.com is 74.125.227.97
+news.l.google.com is 74.125.227.98
+news.l.google.com is 74.125.227.99
+news.l.google.com is 74.125.227.100
+news.l.google.com is 74.125.227.101
+news.l.google.com is 74.125.227.102
+news.l.google.com is 74.125.227.103
+news.l.google.com is 74.125.227.104
+news.l.google.com is 74.125.227.105
+No DNS entry
+Local DNS timeout
+Authoritative DNS server not found

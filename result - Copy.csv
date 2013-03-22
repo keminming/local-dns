@@ -1,0 +1,6 @@
+project code,,,,,,
+Threads,Attempted,Found,Seccuss rate,Time (),Lookups/sec,CPU
+1500,10000,88331,88.33%,1147,87.184,64%
+gethostbyname,,,,,,
+Threads,Attempted,Found,Seccuss rate,Time (),Lookups/sec,CPU
+1500,10000,44805,44.81%,549,182.149,68.75%
